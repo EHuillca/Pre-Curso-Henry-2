@@ -16,4 +16,4 @@
 
 // var cadena = "McDonald\'s"
 
-console.log(10 + 0)
+console.log("Hola")
