@@ -7,6 +7,13 @@
 // console.log(3 == '3')
 // console.log(3 === '3')
 
-const nuevaMultiplicacion = 10 * 4 === 40 ;
+// const nuevaMultiplicacion = 10 * 4 === 40 ;
 
-const nuevaResta = 10 - 5 === 5;
+// const nuevaResta = 10 - 5 === 5;
+
+// var nombre = null;
+// nombre ="Carlos"
+
+// var cadena = "McDonald\'s"
+
+console.log(10 + 0)
