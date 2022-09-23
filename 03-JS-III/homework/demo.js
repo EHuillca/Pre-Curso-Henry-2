@@ -1,8 +1,11 @@
+// console.log("hola".split(""))
+// console.log("hola".split("").reverse())
+// console.log("hola".split("").reverse().join(''))
 
-function numeroDigitos(num){
-  // Devuelve el número de dígitos de un número dado
-  // Tu código:
-  return Math.round(Math.log(num)/Math.LN10)
-  //return Math.log(num)/Math.LN10
-}
-console.log(numeroDigitos("8541"))
+
+  var invertida = 'Hola' ;
+  var resultado = '';
+  for(var i = invertida.length-1; i>=0;i--){
+    resultado=resultado + invertida[i];
+  }
+console.log(resultado)
